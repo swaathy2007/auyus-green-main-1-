@@ -58,4 +58,4 @@ The application will start locally and you can view it in your browser.
 * User accounts and favorites
 * Mobile app integration
 
-Swaathy M
+
